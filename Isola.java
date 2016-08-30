@@ -180,6 +180,9 @@ public class Isola
           return false;
         }
         break;
+      default:
+        System.out.println("That is not a valid command.");
+        return false;
     }
 
     System.out.println("Input is: " + input); // debugging statement
