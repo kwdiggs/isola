@@ -5,4 +5,4 @@
 <p>The rules can be found <a href="http://www.cs.umb.edu/~yunxu/isola/rules.html">here.</a></p>
 
 <h2>Screenshot</h2>
-![Isola Gameplay](/isola_gampeplay.png "Isola Gameplay")
+![Isola Gameplay](isola_gampeplay.png "Isola Gameplay")
