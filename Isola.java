@@ -185,7 +185,8 @@ public class Isola
         return false;
     }
 
-    System.out.println("Input is: " + input); // debugging statement
+    System.out.print("\u001b[2J");
+    System.out.print("\u001b[H");
     return true;
   }
 
